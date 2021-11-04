@@ -5,6 +5,7 @@
 }
 
 body {
-  background: #121212;
+  background: rgb(10, 10, 10);
   font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
 }

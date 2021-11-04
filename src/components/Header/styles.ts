@@ -1,6 +1,11 @@
 import styled from "styled-components/macro";
 
 export const Wrapper = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+
   width: 100%;
   padding: 2em 3em;
 
@@ -40,7 +45,7 @@ export const Navigation = styled.div`
 `;
 
 export const NetflixLogo = styled.img`
-  width: 100px;
+  height: 25px;
 `;
 
 // User
@@ -52,6 +57,10 @@ export const User = styled.div`
     font-size: 0.9em;
     margin-right: 0.5em;
     color: rgba(255, 255, 255, 0.8);
+
+    @media all and (max-width: 767px) {
+      display: none;
+    }
   }
 `;
 
