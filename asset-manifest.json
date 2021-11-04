@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/netflix-tvshow-page-concept/static/css/main.a5082056.chunk.css",
+    "main.js": "/netflix-tvshow-page-concept/static/js/main.9877b620.chunk.js",
+    "main.js.map": "/netflix-tvshow-page-concept/static/js/main.9877b620.chunk.js.map",
+    "runtime-main.js": "/netflix-tvshow-page-concept/static/js/runtime-main.4f984f51.js",
+    "runtime-main.js.map": "/netflix-tvshow-page-concept/static/js/runtime-main.4f984f51.js.map",
+    "static/js/2.450de628.chunk.js": "/netflix-tvshow-page-concept/static/js/2.450de628.chunk.js",
+    "static/js/2.450de628.chunk.js.map": "/netflix-tvshow-page-concept/static/js/2.450de628.chunk.js.map",
+    "index.html": "/netflix-tvshow-page-concept/index.html",
+    "static/css/main.a5082056.chunk.css.map": "/netflix-tvshow-page-concept/static/css/main.a5082056.chunk.css.map",
+    "static/js/2.450de628.chunk.js.LICENSE.txt": "/netflix-tvshow-page-concept/static/js/2.450de628.chunk.js.LICENSE.txt",
+    "static/media/netflix_logo.5787551b.svg": "/netflix-tvshow-page-concept/static/media/netflix_logo.5787551b.svg",
+    "static/media/netflix_logo_mobile.225ee027.svg": "/netflix-tvshow-page-concept/static/media/netflix_logo_mobile.225ee027.svg",
+    "static/media/the-witcher-logo.png": "/netflix-tvshow-page-concept/static/media/the-witcher-logo.63b57db5.png",
+    "static/media/thumbnail-episode-1.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-1.7e53a5ff.jpg",
+    "static/media/thumbnail-episode-2.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-2.b4692edb.jpg",
+    "static/media/thumbnail-episode-3.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-3.1e638512.jpg",
+    "static/media/thumbnail-episode-4.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-4.fa5e2c0b.jpg",
+    "static/media/thumbnail-episode-5.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-5.74e26b87.jpg",
+    "static/media/thumbnail-episode-6.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-6.14516a1b.jpg",
+    "static/media/thumbnail-episode-7.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-7.8b024261.jpg",
+    "static/media/thumbnail-episode-8.jpg": "/netflix-tvshow-page-concept/static/media/thumbnail-episode-8.064dc78f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f984f51.js",
+    "static/js/2.450de628.chunk.js",
+    "static/css/main.a5082056.chunk.css",
+    "static/js/main.9877b620.chunk.js"
+  ]
+}
