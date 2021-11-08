@@ -1,7 +1,7 @@
 import styled from "styled-components/macro";
 
 export const Wrapper = styled.div`
-  height: 650px;
+  height: 750px;
   width: 100%;
   position: relative;
   display: flex;
@@ -182,28 +182,28 @@ export const PlayIconWrapper = styled.div`
 export const BlurDivider = styled.div`
   position: absolute;
   width: 100%;
-  height: 100px;
+  height: 100%;
   bottom: 0;
   z-index: 1;
   background-image:
     linear-gradient(
       to bottom,
-      hsla(0, 0%, 3.9%, 0) 0%,
-      hsla(0, 0%, 3.9%, 0.013) 8.1%,
-      hsla(0, 0%, 3.9%, 0.049) 15.5%,
-      hsla(0, 0%, 3.9%, 0.104) 22.5%,
-      hsla(0, 0%, 3.9%, 0.175) 29%,
-      hsla(0, 0%, 3.9%, 0.259) 35.3%,
-      hsla(0, 0%, 3.9%, 0.352) 41.2%,
-      hsla(0, 0%, 3.9%, 0.45) 47.1%,
-      hsla(0, 0%, 3.9%, 0.55) 52.9%,
-      hsla(0, 0%, 3.9%, 0.648) 58.8%,
-      hsla(0, 0%, 3.9%, 0.741) 64.7%,
-      hsla(0, 0%, 3.9%, 0.825) 71%,
-      hsla(0, 0%, 3.9%, 0.896) 77.5%,
-      hsla(0, 0%, 3.9%, 0.951) 84.5%,
-      hsla(0, 0%, 3.9%, 0.987) 91.9%,
-      hsl(0, 0%, 3.9%) 100%
+      hsla(0, 0%, 4%, 0) 0%,
+      hsla(0, 0%, 4%, 0.011) 0.6%,
+      hsla(0, 0%, 4%, 0.043) 2.4%,
+      hsla(0, 0%, 4%, 0.092) 5.3%,
+      hsla(0, 0%, 4%, 0.155) 9.2%,
+      hsla(0, 0%, 4%, 0.23) 14.1%,
+      hsla(0, 0%, 4%, 0.315) 19.9%,
+      hsla(0, 0%, 4%, 0.405) 26.5%,
+      hsla(0, 0%, 4%, 0.498) 33.9%,
+      hsla(0, 0%, 4%, 0.592) 41.9%,
+      hsla(0, 0%, 4%, 0.683) 50.5%,
+      hsla(0, 0%, 4%, 0.769) 59.7%,
+      hsla(0, 0%, 4%, 0.846) 69.2%,
+      hsla(0, 0%, 4%, 0.912) 79.2%,
+      hsla(0, 0%, 4%, 0.965) 89.5%,
+      hsl(0, 0%, 4%) 100%
     );
   };
 `;
