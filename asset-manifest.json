@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/netflix-tvshow-page-concept/static/css/main.a5082056.chunk.css",
-    "main.js": "/netflix-tvshow-page-concept/static/js/main.9877b620.chunk.js",
-    "main.js.map": "/netflix-tvshow-page-concept/static/js/main.9877b620.chunk.js.map",
+    "main.js": "/netflix-tvshow-page-concept/static/js/main.48adb7f1.chunk.js",
+    "main.js.map": "/netflix-tvshow-page-concept/static/js/main.48adb7f1.chunk.js.map",
     "runtime-main.js": "/netflix-tvshow-page-concept/static/js/runtime-main.4f984f51.js",
     "runtime-main.js.map": "/netflix-tvshow-page-concept/static/js/runtime-main.4f984f51.js.map",
     "static/js/2.450de628.chunk.js": "/netflix-tvshow-page-concept/static/js/2.450de628.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.4f984f51.js",
     "static/js/2.450de628.chunk.js",
     "static/css/main.a5082056.chunk.css",
-    "static/js/main.9877b620.chunk.js"
+    "static/js/main.48adb7f1.chunk.js"
   ]
 }
