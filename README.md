@@ -8,7 +8,7 @@
 
 > A Netflix TV Show Page concept made with React
 
-### 🏠 [Homepage](https://github.com/godart-corentin/book-store#readme)
+### 🏠 [Homepage](https://github.com/godart-corentin/netflix-tvshow-page-concept#readme)
 
 <p align="middle">
 <img src="./Screenshot1.png" alt="Screenshot 1" width="80%"/>
